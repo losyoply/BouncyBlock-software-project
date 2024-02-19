@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "bubble_signal",
+    "texture": "a9a033af-3c8b-426b-b93d-d584320b61a8",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      341,
+      341
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      341,
+      341
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}
